@@ -6,7 +6,7 @@ metadata:
 spec:
   type: policyproject
   description: Policy to connect to Demo Queue Manager
-  contents: >-
+  contents: |
     UEsDBAoAAAAAAHpit1QAAAAAAAAAAAAAAAANABwAQ1A0aVFNR1JERU1PL1VUCQADOMKLYrLIi2J1
     eAsAAQT1AQAABBQAAABQSwMEFAAAAAgAemK3VH80v0vqAAAAfAIAABUAHABDUDRpUU1HUkRFTU8v
     LnByb2plY3RVVAkAAzjCi2I4wotidXgLAAEE9QEAAAQUAAAAtVK7TgMxEKzJV0TXZw0SRQrnIpEA

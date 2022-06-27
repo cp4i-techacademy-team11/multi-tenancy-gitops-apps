@@ -6,7 +6,7 @@ metadata:
 spec:
   type: policyproject
   description: Policy to connect to Demo Event Streams Cluster
-  contents: >-
+  contents: |
     UEsDBAoAAAAAAI+b21QAAAAAAAAAAAAAAAAQABwAQ1A0SUVTREVNT1NDUkFNL1VUCQADvei5Yr3o
     uWJ1eAsAAQToAwAABOgDAABQSwMEFAAAAAgAMozGVC7DG/yWAAAA+AAAACEAHABDUDRJRVNERU1P
     U0NSQU0vcG9saWN5LmRlc2NyaXB0b3JVVAkAA1AenmJQHp5idXgLAAEE6AMAAAToAwAAjY5BCsIw

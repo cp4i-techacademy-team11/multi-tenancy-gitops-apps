@@ -6,7 +6,7 @@ metadata:
 spec:
   type: policyproject
   description: Policy to configure default values for CP4I Demo
-  contents: >-
+  contents: |
     UEsDBAoAAAAAADJUxlQAAAAAAAAAAAAAAAAJABwAQ1A0SURFTU8vVVQJAANQHp5iUB6eYnV4CwAB
     BPUBAAAEFAAAAFBLAwQUAAAACAAyVMZUtD8wqtQAAAACAgAAEQAcAENQNElERU1PLy5wcm9qZWN0
     VVQJAANQHp5iUB6eYnV4CwABBPUBAAAEFAAAAKVRvQrCMBic9Smku4mCg0OsYFVw8AfUB2jTT4k0
