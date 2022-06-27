@@ -6,8 +6,9 @@ metadata:
 spec:
   type: accounts
   description: Credentials to connect to SF from Designer Flow
-  data: YWNjb3VudHM6CiAgc2FsZXNmb3JjZToKICAgIC0gbmFtZTogSkdSU0ZBY2N0CiAgICAgIGNyZWRl
-bnRpYWxzOgogICAgICAgIHVzZXJuYW1lOiAKICAgICAgICBwYXNzd29yZDogCiAgICAgICAgY2xp
-ZW50SWRlbnRpdHk6IAogICAgICAgIGNsaWVudFNlY3JldDogCiAgICAgIGVuZHBvaW50OgogICAg
-ICAgIGxvZ2luVXJsOiA=
+  data: |
+    YWNjb3VudHM6CiAgc2FsZXNmb3JjZToKICAgIC0gbmFtZTogSkdSU0ZBY2N0CiAgICAgIGNyZWRl
+    bnRpYWxzOgogICAgICAgIHVzZXJuYW1lOiAKICAgICAgICBwYXNzd29yZDogCiAgICAgICAgY2xp
+    ZW50SWRlbnRpdHk6IAogICAgICAgIGNsaWVudFNlY3JldDogCiAgICAgIGVuZHBvaW50OgogICAg
+    ICAgIGxvZ2luVXJsOiA=
   
