@@ -6,6 +6,5 @@ metadata:
 spec:
   type: barauth
   description: Authentication for GitHub
-  data: ewogICAgImF1dGhUeXBlIjoiQkFTSUNfQVVUSCIsCiAgICAiY3JlZGVudGlhbHMiOgogICAgewog
-ICAgICAgICJ1c2VybmFtZSI6IiIsCiAgICAgICAgInBhc3N3b3JkIjoiIgogICAgfQp9
+  data: ewogICAgImF1dGhUeXBlIjoiQkFTSUNfQVVUSCIsCiAgICAiY3JlZGVudGlhbHMiOgogICAgewogICAgICAgICJ1c2VybmFtZSI6IiIsCiAgICAgICAgInBhc3N3b3JkIjoiIgogICAgfQp9
   
